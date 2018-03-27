@@ -1,5 +1,14 @@
 == GoTest
 
+Setting up the development environment with Sublime Text::
+  . Install the **Environment Settings** to set your **GOPATH**
+  . Install the **Golang Build**
+  . Modify the project setting file to fix your real GOPATH
+  . Re-open your sublime
+
+TODO::
+  . bazel
+
 References::
   . bash autocomplete: `https://github.com/posener/complete`
   . Installing Go 1.9 on Ubuntu 16.04: `https://www.samclarke.com/installing-go-1-9-on-ubuntu-16-04/`
